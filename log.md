@@ -1,6 +1,8 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+On September 22, 2020 I committed to #100DaysOfFrontEnd where I’ll be sharing everything I’m working on related to frontend development. Personal projects, courses I'm taking, tech reads, researching, testing, and many more!
+
+<!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
@@ -27,4 +29,4 @@
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
