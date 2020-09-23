@@ -2,6 +2,17 @@
 
 On September 22, 2020 I committed to #100DaysOfFrontEnd where I’ll be sharing everything I’m working on related to frontend development. Personal projects, courses I'm taking, tech reads, researching, testing, and many more!
 
+### Day 1: September 23, 2020
+
+**Today's Progress**: Started working on the Random Quote Machine generator in React.
+
+**Today's Learning**: Finished the React JS course from [freeCodeCamp](https://www.youtube.com/watch?v=DLX62G4lc44).
+
+**Thoughts:** This is the first time when I try to build an application in React.
+For this app, I've decided to use create-react-app. I've tried a couple of APIs to fetch data but, eventually, I decided to stick to Forismatic API. In the beginning, I've decided just to try slowly to use React, components, props, fetch and display data.
+
+**Link to GitHub:** [Inspirational Quote Generator](https://github.com/alexandracaulea/inspirational-quote-generator)
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
