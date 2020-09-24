@@ -19,7 +19,7 @@ For this app, I've decided to use create-react-app. I've tried a couple of APIs 
 
 **Today's Learning**: I reviewed my notes from the FCC React course and I've also read through React docs. I'm planning on continuing to do so the next days as well.
 
-**Thoughts:** Spent some time thinking more on the HTML structure since before I had a bunch of <div> tags. I refactored a bit the code since at the beginning I didn't know where to start with React. I decided to keep saving in the state only the information I needed. Made the "New Quote" button to generate a new random quote by making every time a new request to the API. Made the "Twitter" link work and now I am able to post the quote on Twitter.
+**Thoughts:** Spent some time thinking more on the HTML structure since before I had a bunch of `<div>` tags. I refactored a bit the code since at the beginning I didn't know where to start with React. I decided to keep saving in the state only the information I needed. Made the "New Quote" button to generate a new random quote by making every time a new request to the API. Made the "Twitter" link work and now I am able to post the quote on Twitter.
 
 **Link to GitHub:** [Inspirational Quote Generator](https://github.com/alexandracaulea/inspirational-quote-generator)
 
