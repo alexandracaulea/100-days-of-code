@@ -23,6 +23,27 @@ For this app, I've decided to use create-react-app. I've tried a couple of APIs 
 
 **Link to GitHub:** [Inspirational Quote Generator](https://github.com/alexandracaulea/inspirational-quote-generator)
 
+### Day 3: September 25, 2020
+
+**Today's Progress**: Worked on Inspirational Quote Generator project.
+
+**Thoughts:** Spent some time trying out different styles for the app and implementing it. Decided to try out styled components for the very first time. Deployed the app to Netlify
+
+I’ve created in Trello a card with all the things I have to add/change to the app (eg. add loader, remove comments and unnecessary files).
+
+**Today's Learning**: I’ve learned that styled components are a css-in-js tool and their goal is to give a flexible way to style components. It makes more sense for me when I’ve read the sentence: “When you create a styled component, you are creating a React component with styles” (source Smashing Magazine).
+I’ve learned about the “createGlobalStyle” function used to style the global elements like html and body.
+I’ve also set up a shortcut in VS Code in order to make the css style be sorted ascending.
+
+I've read:
+
+- Useful article about styled components: https://www.smashingmagazine.com/2020/07/styled-components-react/
+- Docs styled components: https://styled-components.com/docs/basics
+
+**Link to GitHub:** [Inspirational Quote Generator](https://github.com/alexandracaulea/inspirational-quote-generator)
+
+**Link to Netlify**: [Inspirational Quote Generator](https://inspirational-quote-generator.netlify.app/)
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
