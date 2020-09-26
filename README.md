@@ -44,6 +44,16 @@ I've read:
 
 **Link to Netlify**: [Inspirational Quote Generator](https://inspirational-quote-generator.netlify.app/)
 
+### Day 4: September 26, 2020
+
+**Today's Progress**: Worked on Inspirational Quote Generator project.
+
+**Thoughts:** Today I had only 1 h to code so I decided to spend it continuing to work on the “Inspirational Quote Generator” in React. I’ve managed to configure Airbnb Style Guide and ESLint and improved the code based on the feedback received from ESLint. I’ve also removed unnecessary code and files, added meta tags, updated the title and added favicons. I still have a few things to work on and improve the app, but I’ll do it in the next period.
+
+**Link to GitHub:** [Inspirational Quote Generator](https://github.com/alexandracaulea/inspirational-quote-generator)
+
+**Live example**: [Inspirational Quote Generator](https://inspirational-quote-generator.netlify.app/)
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
