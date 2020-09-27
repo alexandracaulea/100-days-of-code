@@ -54,6 +54,54 @@ I've read:
 
 **Live example**: [Inspirational Quote Generator](https://inspirational-quote-generator.netlify.app/)
 
+### Day 5: September 26, 2020
+
+**Today's Progress**: Worked on Inspirational Quote Generator project.
+
+**Thoughts:**
+
+### 1. Fixed error “SyntaxError Unexpected Token in JSON”
+
+Today I've worked on fixing the error “SyntaxError Unexpected Token in JSON”. I've seen that from time to time, the response received from the API was a string.
+
+As an example, whenever inside of the quoteText was a backslash, the response received from the API was a string.
+
+```json
+{
+  "quoteText": "I can't imagine a person becoming a success who doesn't give this game of life everything hes got.",
+  "quoteAuthor": "Walter Cronkite",
+  "senderName": "",
+  "senderLink": "",
+  "quoteLink": "http://forismatic.com/en/342c3061d1/"
+}
+```
+
+As a result of that, I've switched from the `fetch` API in using the Axios library and integrated additional logic in order to handle the "string" response received from the API.
+
+I've spent a lot of time figuring out how to fix this issue, mainly in the console, the network tab and researching online.
+
+### 2. Decided to start using branches instead of committing code to master.
+
+### 3. Small improvements to the project:
+
+- Learned how to animate the octo arm path
+- Learned that we can use `css` API which allows us to construct reusable CSS blocks (I’ve created a separate file called “mixins.js” repeated styles are added.
+- Learned that styled-components can incorporate animations by using the `keyframes` helper which generates a UNIQUE instance.
+- Learned how to target another styled component on hover
+- Learned that we can interpolate other styled-components to refer to their automatically generated class names
+
+### **Another update for yesterday:**
+
+1. I officially registered for Hacktoberfest 2020, I’m super excited and scared at the same time.
+2. Used `git reflog` and `git reset --soft` for the very first time. I accidentally merged master into develop (What can I say? I will not code after 10 PM in the evening).
+
+Useful Link:
+[Adding CSS Animations with Styled Components](https://medium.com/@matt.readout/adding-css-animations-with-styled-components-6c191c23b6ba)
+
+**Link to GitHub:** [Inspirational Quote Generator](https://github.com/alexandracaulea/inspirational-quote-generator)
+
+**Live example**: [Inspirational Quote Generator](https://inspirational-quote-generator.netlify.app/)
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
