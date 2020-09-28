@@ -54,7 +54,7 @@ I've read:
 
 **Live example**: [Inspirational Quote Generator](https://inspirational-quote-generator.netlify.app/)
 
-### Day 5: September 26, 2020
+### Day 5: September 27, 2020
 
 **Today's Progress**: Worked on Inspirational Quote Generator project.
 
@@ -101,6 +101,16 @@ Useful Link:
 **Link to GitHub:** [Inspirational Quote Generator](https://github.com/alexandracaulea/inspirational-quote-generator)
 
 **Live example**: [Inspirational Quote Generator](https://inspirational-quote-generator.netlify.app/)
+
+### Day 6: September 27, 2020
+
+**Today's Progress**: Worked on my website.
+
+**Thoughts:** Today I've worked on my website: added relevant information for each project, improved the overall layout, removed a couple of projects and reorganized the content.
+
+**Link to GitHub:** - (private repository)
+
+**Live example**: [My Website](https://www.alexandracaulea.com/)
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
