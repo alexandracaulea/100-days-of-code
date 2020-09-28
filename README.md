@@ -102,7 +102,7 @@ Useful Link:
 
 **Live example**: [Inspirational Quote Generator](https://inspirational-quote-generator.netlify.app/)
 
-### Day 6: September 27, 2020
+### Day 6: September 28, 2020
 
 **Today's Progress**: Worked on my website.
 
