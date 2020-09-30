@@ -112,13 +112,28 @@ Useful Link:
 
 **Live example**: [My Website](https://www.alexandracaulea.com/)
 
-### Day 7: September 26, 2020
+### Day 7: September 29, 2020
 
 **Today's Progress**: Worked on Inspirational Quote Generator project.
 
 **Thoughts:** Today I've implemented a loader for the “Inspirational Quote Generator” in React. Instead of using a package for the loader, I've decided to implement one by myself using styled-components. Also, I've organized a bit my code since it was a bit confusing while reading it.
 
 I want to spend the end of the day reading through the React docs for at least 1 hour.
+
+**Link to GitHub:** [Inspirational Quote Generator](https://github.com/alexandracaulea/inspirational-quote-generator)
+
+**Live example**: [Inspirational Quote Generator](https://inspirational-quote-generator.netlify.app/)
+
+### Day 8: September 30, 2020
+
+**Today's Progress**: Worked on Inspirational Quote Generator project.
+
+**Thoughts:**
+
+Coding update: I've added state for the button and links. Extended the RegEx expression that I had in the code (Context: from time to time the response received from the API contains non-word characters like slashes, quotes etc.)
+Today I also focused on accessibility, by testing the app using NVDA screen reader and improved the code in order for the app to be accessible.
+
+Also went to a JSHeroes meetup online event about JavaScript Generators which was super interesting and nerdy (which I loved). Took a bunch of notes, need to experiment a bit with them.
 
 **Link to GitHub:** [Inspirational Quote Generator](https://github.com/alexandracaulea/inspirational-quote-generator)
 
