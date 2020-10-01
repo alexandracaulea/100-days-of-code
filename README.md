@@ -139,6 +139,25 @@ Also went to a JSHeroes meetup online event about JavaScript Generators which wa
 
 **Live example**: [Inspirational Quote Generator](https://inspirational-quote-generator.netlify.app/)
 
+### Day 9: October 1, 2020
+
+**Today's Progress**: Worked on Inspirational Quote Generator project.
+
+**Thoughts:**
+
+Coding update:
+
+Last day where I've worked on the "Inspirational Quote Generator" project in React. I created an issue to add tests in the near feature since this is the first project where I used React.
+I added a default state if the response returned from the API is an empty string for the author.
+
+For the next days I will be able to code for only 1 hour (family is visiting), so I'm not sure how much I will achieve.
+
+Also went to an UI testing meetup organized by Academia Testarii which opened a new horizontal for me regarding testing which was very insightful for me as a junior dev.
+
+**Link to GitHub:** [Inspirational Quote Generator](https://github.com/alexandracaulea/inspirational-quote-generator)
+
+**Live example**: [Inspirational Quote Generator](https://inspirational-quote-generator.netlify.app/)
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
