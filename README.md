@@ -172,6 +172,16 @@ I started working with branches and removed redundant code. Started adding a des
 
 **Live example**: [My Projects Page](https://my-projects.netlify.app/)
 
+### Day 11: October 3, 2020
+
+**Today's Progress**: Worked on "My Projects" page.
+
+**Thoughts:** Since today I had only 1 hour to code (family is visiting), I decided to continue working on "My Projects" page. This page is a list of all the projects that I've built so far while learning to code. I've continued adding a description for the projects and improved the overall page.
+
+**Link to GitHub:** [My Projects Page](https://github.com/alexandracaulea/experiments)
+
+**Live example**: [My Projects Page](https://my-projects.netlify.app/)
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
