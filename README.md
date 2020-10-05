@@ -182,6 +182,22 @@ I started working with branches and removed redundant code. Started adding a des
 
 **Live example**: [My Projects Page](https://my-projects.netlify.app/)
 
+### Day 12: October 4, 2020
+
+**Today's Progress**: No coding.
+
+**Thoughts:** I decided to take a day off from coding since I could not find time for doing it while the family was around. Enjoying a full day with the family is always rewarding and it is like a reminder that sometimes is ok to take a break.
+
+### Day 13: October 5, 2020
+
+**Today's Progress**: Started working on the "Markdown Previewer" project from freeCodeCamp.
+
+**Thoughts:** I've installed all the dependencies that I needed for this project.Today I've also had a job interview which went well and is something that keeps me focused on my goals.
+
+**Link to GitHub:** [Markdown Previewer](https://github.com/alexandracaulea/markdown-previewer)
+
+**Live example**: -
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
