@@ -208,6 +208,16 @@ I started working with branches and removed redundant code. Started adding a des
 
 **Live example**: https://markdown-previewer-project.netlify.app/
 
+### Day 15: October 7, 2020
+
+**Today's Progress**: I've worked on the "Markdown Previewer" project from freeCodeCamp.
+
+**Thoughts:** Instead of focusing on how the app looks, I've decided to try out React hooks and refactor the code a bit.
+
+**Link to GitHub:** [Markdown Previewer](https://github.com/alexandracaulea/markdown-previewer)
+
+**Live example**: https://markdown-previewer-project.netlify.app/
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
