@@ -218,6 +218,18 @@ I started working with branches and removed redundant code. Started adding a des
 
 **Live example**: https://markdown-previewer-project.netlify.app/
 
+### Day 16: October 8, 2020
+
+**Today's Progress**: Worked on the "Markdown Previewer" project from freeCodeCamp.
+
+**Thoughts:** Since I'm using "marked" package which parses and compiles markdown I've decided to not use styled-components and stick with CSS. I've experimented with different layouts, but eventually, I've decided to have a 2 column layout for this project. I still want to continue experimenting with the styles to see if I can come up with something different.
+
+**Online Event:** I've also participated in an online event about React and TDD ("React + TDD === ♥️", presented by Siri Lööf and hosted by David Pallinder and Dafna Rosenblum) . Since I'm currently learning React, this meetup came at the right time.
+
+**Link to GitHub:** [Markdown Previewer](https://github.com/alexandracaulea/markdown-previewer)
+
+**Live example**: https://markdown-previewer-project.netlify.app/
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
