@@ -230,6 +230,14 @@ I started working with branches and removed redundant code. Started adding a des
 
 **Live example**: https://markdown-previewer-project.netlify.app/
 
+### Day 17: October 9, 2020
+
+**Today's Progress**: I've continued working on the Markdown Previewer from freeCodeCamp.
+
+**Thoughts:** I've decided to add more content in the Editor textarea and the header elements. Also, I took the content from the header and move it to a separate component.
+
+**Online Event:** [The modern way to build the web with Gatsby](https://www.twitch.tv/videos/765274454) on Twitch.
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
