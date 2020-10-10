@@ -238,6 +238,16 @@ I started working with branches and removed redundant code. Started adding a des
 
 **Online Event:** [The modern way to build the web with Gatsby](https://www.twitch.tv/videos/765274454) on Twitch.
 
+### Day 18: October 9, 2020
+
+**Today's Progress**: I've continued working on the Markdown Previewer from freeCodeCamp.
+
+**Thoughts:** Since I had only 1 hour today to code, I decided to continue working on the Markdown Previewer project in React. I've read through the docs and added more examples and information. Because of that, I've managed to pass 2 requirement tests from freeCodeCamp.
+
+Since I'm using a code block as an example and JSX, I needed to escape 3 backticks that were inside another backtick. So I've learned that I needed to add in front of each of those 3 backticks a backslash. The code looks a bit weird but it works.
+
+I've also learned new things about Markdown. One of those is that you can create a line break by ending a line with two or more spaces, and then press enter.
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
