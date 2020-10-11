@@ -238,7 +238,7 @@ I started working with branches and removed redundant code. Started adding a des
 
 **Online Event:** [The modern way to build the web with Gatsby](https://www.twitch.tv/videos/765274454) on Twitch.
 
-### Day 18: October 9, 2020
+### Day 18: October 10, 2020
 
 **Today's Progress**: I've continued working on the Markdown Previewer from freeCodeCamp.
 
@@ -247,6 +247,14 @@ I started working with branches and removed redundant code. Started adding a des
 Since I'm using a code block as an example and JSX, I needed to escape 3 backticks that were inside another backtick. So I've learned that I needed to add in front of each of those 3 backticks a backslash. The code looks a bit weird but it works.
 
 I've also learned new things about Markdown. One of those is that you can create a line break by ending a line with two or more spaces, and then press enter.
+
+### Day 19: October 11, 2020
+
+**Today's Progress**: I've continued working on the Markdown Previewer from freeCodeCamp.
+
+\*\*Thoughts: Added functionality to interpret carriage returns and render them as line breaks. This was the last optional requirement, and now my project passes all the tests required by freeCodeCamp. Even if it is not required and for practice purpose, I decided to sanitize the data in order to prevent XSS attack. Made some small improvements to make it accessible.
+
+Also, I've used GitHub CLI for the very first time in order to create 2 issues in my repository. It was so much easier and I didn't leave my Terminal.
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
