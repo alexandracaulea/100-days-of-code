@@ -252,9 +252,21 @@ I've also learned new things about Markdown. One of those is that you can create
 
 **Today's Progress**: I've continued working on the Markdown Previewer from freeCodeCamp.
 
-\*\*Thoughts: Added functionality to interpret carriage returns and render them as line breaks. This was the last optional requirement, and now my project passes all the tests required by freeCodeCamp. Even if it is not required and for practice purpose, I decided to sanitize the data in order to prevent XSS attack. Made some small improvements to make it accessible.
+**Thoughts**: Added functionality to interpret carriage returns and render them as line breaks. This was the last optional requirement, and now my project passes all the tests required by freeCodeCamp. Even if it is not required and for practice purpose, I decided to sanitize the data in order to prevent XSS attack. Made some small improvements to make it accessible.
 
 Also, I've used GitHub CLI for the very first time in order to create 2 issues in my repository. It was so much easier and I didn't leave my Terminal.
+
+### Day 20: October 12, 2020
+
+**Today's Progress**: I've continued working on the Markdown Previewer from freeCodeCamp.
+
+**Thoughts**: Today's focus was practising new things without actually committing the changes.
+
+I've tried out React-Ace, mainly the Ace Editor, for the very first time. I've integrated it in my project but eventually I've decided to not use it since it will not pass the tests required by freeCodeCamp. Even if I didn't integrate it in my project, it was interesting to try it out alongside the available props.
+
+In my project, I included a link to the repository.
+
+I also learned that you can close an issue with a commit message by including in the commit message the keyword "close" followed by "#issueNumber" (eg. "Close #2"). There are also a few other keywords (close, closes, closed, fix, fixes, fixed, resolve, resolves, resolved).
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
