@@ -268,6 +268,16 @@ In my project, I included a link to the repository.
 
 I also learned that you can close an issue with a commit message by including in the commit message the keyword "close" followed by "#issueNumber" (eg. "Close #2"). There are also a few other keywords (close, closes, closed, fix, fixes, fixed, resolve, resolves, resolved).
 
+### Day 21: October 13, 2020 (no coding & a small break)
+
+**Today's Progress**: No coding.
+
+Just a little update: I will start my first ever Front-End Web Developer role 🥳🥳🥳🥳.
+
+I still want to continue with my coding challenge, but I decided to take a few days to reevaluate what skills and projects I want to build.
+
+What I know for sure is that I still want to continue learning JavaScript and React and work on projects.
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
